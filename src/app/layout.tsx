@@ -5,8 +5,8 @@ import "./globals.css";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  title: "Hello World",
-  description: "Default description",
+  title: "Orbit",
+  description: "Open Source URL Shortener",
 };
 
 export default function RootLayout({
